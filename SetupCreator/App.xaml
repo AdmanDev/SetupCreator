@@ -1,0 +1,10 @@
+﻿<Application x:Class="SetupCreator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SetupCreator"
+             StartupUri="MainMenuWindow.xaml"
+             Startup="Application_Startup">
+    <Application.Resources>
+        <ResourceDictionary Source="Styles.xaml"/>
+    </Application.Resources>
+</Application>

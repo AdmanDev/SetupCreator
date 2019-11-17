@@ -1,0 +1,68 @@
+﻿<Window x:Class="SetupCreator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SetupCreator"
+        mc:Ignorable="d"
+        Title="SetupGenerator" WindowStartupLocation="CenterScreen" MinWidth="500" MinHeight="20"  SizeToContent="WidthAndHeight" ResizeMode="CanMinimize" Style="{DynamicResource WindowsStyle}" WindowStyle="None">
+
+    <Window.Resources>
+        <Style x:Key="MenuItemStyle" TargetType="{x:Type MenuItem}">
+
+            <Setter Property="Background" Value="#FF5D0101"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="BorderThickness" Value="1,0,1,1"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Grid MouseLeftButtonDown="Grid_MouseLeftButtonDown" Background="#FF720000">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="pack://application:,,,/Resources/Images/Icon/SetupCreator logo PNG.png" Width="28" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Stretch="Fill"/>
+                    <Label Content="SetupCreator" Foreground="White" FontSize="16"/>
+                </StackPanel>
+                <Button x:Name="BT_ADMANSoftware" Content="ADMAN Software-FR" HorizontalAlignment="Center" Padding="15,1" Margin="70,0,0,0" Foreground="White" BorderBrush="White" FontSize="16" FontFamily="Eras ITC" FontWeight="Bold" Click="BT_ADMANSoftware_Click">
+                    <Button.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FF930606" Offset="0"/>
+                            <GradientStop Color="#FF210000" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Button.Background>
+                </Button>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" FlowDirection="RightToLeft">
+                    <Button x:Name="BT_CloseApp" Background="{x:Null}" BorderBrush="{x:Null}" Click="BT_CloseApp_Click">
+                        <Image Source="pack://application:,,,/Resources/Images/Close window.png" Stretch="Fill" Width="28" Height="28" />
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel VerticalAlignment="Top">
+                <Menu Opacity="20" Background="#FF660909">
+                    <MenuItem Header="Fichier" Style="{StaticResource MenuItemStyle}">
+                        <MenuItem Header="Nouveau" Click="BT_NewSetup_Click" Style="{StaticResource MenuItemStyle}"/>
+                        <MenuItem Header="Ouvrir" Click="BT_OpenSetup_Click" Style="{StaticResource MenuItemStyle}"/>
+                        <MenuItem Header="Enregistrer" Click="BT_SaveSetup_Click" Style="{StaticResource MenuItemStyle}"/>
+                        <MenuItem Header="Enregistrer sous..." Click="BT_SaveAs" Style="{StaticResource MenuItemStyle}"/>
+                    </MenuItem>
+
+                    <MenuItem x:Name="MI_SetupOptions" Header="Setup" Visibility="Collapsed" Style="{StaticResource MenuItemStyle}">
+                        <MenuItem x:Name="MI_ExecuteSetup" Header="Executer le setup" Style="{StaticResource MenuItemStyle}" Click="MI_ExecuteSetup_Click"/>
+                        <MenuItem x:Name="MI_OpenDirectory" Header="Ouvrir l'emplacement" Style="{StaticResource MenuItemStyle}" Click="MI_OpenDirectory_Click"/>
+                    </MenuItem>
+                </Menu>
+                <Grid x:Name="GridSteps" Margin="10"/>
+                <UniformGrid x:Name="Grid_ButtonsSteps" Columns="2">
+                    <Button x:Name="BT_PreviousStep" Content="Précédant" Style="{DynamicResource StepButtonStyle}" FontSize="18" FontWeight="Normal" Background="#FFA64343" Click="BT_PreviousStep_Click" />
+                    <Button x:Name="BT_NextStep" Content="Suivant" Style="{DynamicResource StepButtonStyle}" Click="BT_NextStep_Click" />
+                </UniformGrid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+
+</Window>

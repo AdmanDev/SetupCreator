@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="SetupCreator.Step_SetupConfig"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SetupCreator"
+             mc:Ignorable="d" BorderBrush="White"  BorderThickness="1" Loaded="UserControl_Loaded">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <GroupBox Header="CONFIGURATION DU SETUP" FontWeight="ExtraBold" FontSize="16" Margin="0,5,0,0" Foreground="White">
+                <StackPanel Orientation="Vertical">
+                    <GroupBox Header="Chemin du build du setup" FontWeight="Bold" FontSize="16" Margin="0,5,0,0" Foreground="White">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <TextBox x:Name="TB_SetupOutputPath" IsReadOnly="True" HorizontalContentAlignment="Center" Margin="5" MinWidth="429" MaxWidth="429"/>
+                            <Button x:Name="BT_ChooseSetupOutputPath" Content="..."  Margin="3,1,1,1" Style="{DynamicResource SecondaryButtonStyle}" Click="BT_ChooseSetupOutputPath_Click"/>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Header="Nom du setup" FontWeight="Bold" FontSize="16" Margin="0,5,0,0" Foreground="White">
+                        <TextBox x:Name="TB_SetupName" HorizontalContentAlignment="Center" FontWeight="Bold" Margin="5" MaxWidth="456"/>
+                    </GroupBox>
+                    <GroupBox Header="Icone du setup (.ICO)" FontWeight="Bold" FontSize="16" Margin="0,5,0,0" Foreground="White">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <TextBox x:Name="TB_IconPath" IsReadOnly="True" HorizontalContentAlignment="Center" Margin="5" MinWidth="429" MaxWidth="429"/>
+                            <Button x:Name="BT_ChooseIcon" Content="..."  Margin="3,1,1,1" Style="{DynamicResource SecondaryButtonStyle}" Click="BT_ChooseIcon_Click"/>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Header="Icone de l'application (.PNG)" FontWeight="Bold" FontSize="16" Margin="0,5,0,0" Foreground="White">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <TextBox x:Name="TB_AppImage" IsReadOnly="True" HorizontalContentAlignment="Center" Margin="5" MinWidth="429" MaxWidth="429"/>
+                            <Button x:Name="BT_ChooseAppImage" Content="..."  Margin="3,1,1,1" Style="{DynamicResource SecondaryButtonStyle}" Click="BT_ChooseAppImage_Click"/>
+                        </StackPanel>
+                    </GroupBox>
+                </StackPanel>
+            </GroupBox>
+
+            <GroupBox Header="OPTIONS" FontWeight="ExtraBold" FontSize="16" Margin="0,10,0,5" Foreground="White">
+                <StackPanel Orientation="Vertical">
+                    <GroupBox Header="Licence" FontWeight="Bold" FontSize="16" Margin="0,5,0,0" Foreground="White">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <TextBox x:Name="TB_LicencePath" IsReadOnly="True" HorizontalContentAlignment="Center" Margin="5" MaxWidth="429" MinWidth="429"/>
+                            <Button x:Name="BT_ChooseLicence" Content="..."  Margin="3,1,1,1" Style="{DynamicResource SecondaryButtonStyle}" Click="BT_ChooseLicence_Click"/>
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Header="Autres" FontWeight="Bold" FontSize="16" Margin="0,5,0,5" Foreground="White">
+                        <StackPanel Orientation="Vertical">
+                            <CheckBox x:Name="CB_CreateDesktpShortcut" Content="Créer un raccourci sur le bureau" FontWeight="Normal" Foreground="#FFFFFCFC"/>
+                            <CheckBox x:Name="CB_StartWhenFinish" Content="Lancer l'application quand l'installation est terminée" FontWeight="Normal" Foreground="#FFFFFCFC"/>
+                        </StackPanel>
+                    </GroupBox>
+
+
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>  
+    </Grid>
+</UserControl>

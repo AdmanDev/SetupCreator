@@ -1,0 +1,37 @@
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\bin\Release\GeneratedSetup.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\bin\Release\GeneratedSetup.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\bin\Release\System.IO.Compression.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\AdsViewer.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\ProgressWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\SetupWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\AdsViewer.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\ProgressWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\SetupWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\bin\Release\GeneratedSetup.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\bin\Release\GeneratedSetup.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\AdsViewer.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\ProgressWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\SetupWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\AdsViewer.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\ProgressWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\SetupWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\GeneratedSetup\obj\Release\GeneratedSetup.csprojAssemblyReference.cache

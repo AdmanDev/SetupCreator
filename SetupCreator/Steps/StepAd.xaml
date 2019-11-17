@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="SetupCreator.StepAd"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SetupCreator"
+             mc:Ignorable="d" MinWidth="350" MaxWidth="700" BorderBrush="White" BorderThickness="1" >
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Button x:Name="BT_AddAd" Content="Ajouter une affiche" Margin="20,2" Style="{DynamicResource SecondaryButtonStyle}" FontSize="20" Click="BT_AddAd_Click"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" Margin="0,3">
+                <StackPanel x:Name="SP_Ads" Orientation="Vertical" MaxHeight="400"/>
+            </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</UserControl>

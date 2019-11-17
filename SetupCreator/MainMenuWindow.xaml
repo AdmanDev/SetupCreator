@@ -1,0 +1,48 @@
+﻿<Window x:Class="SetupCreator.MainMenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SetupCreator"
+        mc:Ignorable="d"
+        Title="SetupCreator" Height="450" Width="800" Style="{DynamicResource WindowsStyle}" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <Style x:Key="BT_Menu_Style" TargetType="Button">
+                <Setter Property="Width" Value="180"/>
+                <Setter Property="Height" Value="180"/>
+                <Setter Property="Background" Value="White"/>
+                <Setter Property="BorderBrush" Value="#FF060000"/>
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="FontSize" Value="30"/>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <Grid>
+        <Grid VerticalAlignment="Top" MouseLeftButtonDown="Grid_MouseLeftButtonDown" Background="#FF720000">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <Image Source="pack://application:,,,/Resources/Images/Icon/SetupCreator logo PNG.png" Width="28" HorizontalAlignment="Left" VerticalAlignment="Top" Height="28" Stretch="Fill"/>
+                <Label Content="SetupCreator" Foreground="White" FontSize="16"/>
+            </StackPanel>
+            <Button x:Name="BT_ADMANSoftware" Content="ADMAN Software-FR" HorizontalAlignment="Center" Padding="15,1" Margin="70,0,0,0" Foreground="White" BorderBrush="White" FontSize="16" FontFamily="Eras ITC" FontWeight="Bold" Click="BT_ADMANSoftware_Click">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF930606" Offset="0"/>
+                        <GradientStop Color="#FF210000" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" FlowDirection="RightToLeft">
+                <Button x:Name="BT_CloseApp" Background="{x:Null}" BorderBrush="{x:Null}" Click="BT_CloseApp_Click">
+                    <Image Source="pack://application:,,,/Resources/Images/Close window.png" Stretch="Fill" Width="28" Height="28" />
+                </Button>
+            </StackPanel>
+        </Grid>
+
+        <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:Name="BT_New" Content="Nouveau" Style="{DynamicResource BT_Menu_Style}" Click="BT_New_Click"/>
+            <Button x:Name="BT_Open" Content="Ouvrir" Style="{DynamicResource BT_Menu_Style}" Margin="2,0,0,0" Click="BT_Open_Click"/>
+        </WrapPanel>
+    </Grid>
+</Window>

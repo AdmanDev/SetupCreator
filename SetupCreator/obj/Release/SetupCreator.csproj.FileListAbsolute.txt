@@ -1,0 +1,102 @@
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\PresentationCore.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\PresentationFramework.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\System.Xaml.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\WindowsBase.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\GeneratedSetup.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\System.IO.Compression.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\System.IO.Compression.FileSystem.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\GeneratedSetup_Program.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\Images\Icon\Save logo ICO.ico
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\SetupCreator.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\SetupCreator.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\SetupCreator.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\MyFunctions.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\System.IO.Compression.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\System.Management.Automation.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\VelerSoftware.FTPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\MyFunctions.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\en\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\fr\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\AdEditorViewer.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\MainMenuWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\MainWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAd.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFiles.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFolder.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppInfos.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\Step_SetupConfig.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\App.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\App.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\AdEditorViewer.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\MainMenuWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\MainWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAd.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFiles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFolder.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppInfos.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\Step_SetupConfig.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\Styles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\SetupCreator\SetupCreator\bin\Release\app.manifest
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\PresentationCore.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\PresentationFramework.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\System.Xaml.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\WindowsBase.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\GeneratedSetup.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\System.IO.Compression.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\dlls\System.IO.Compression.FileSystem.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\GeneratedSetup_Program.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\app.manifest
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Resources\Images\Icon\Save logo ICO.ico
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\SetupCreator.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\SetupCreator.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\SetupCreator.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\System.IO.Compression.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\System.Management.Automation.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\VelerSoftware.FTPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\MyFunctions.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\en\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\fr\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\AdEditorViewer.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\MainMenuWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\MainWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAd.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFiles.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFolder.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppInfos.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\Step_SetupConfig.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\App.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\App.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\AdEditorViewer.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\MainMenuWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\MainWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAd.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFiles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppFolder.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\StepAppInfos.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Steps\Step_SetupConfig.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\Styles.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\obj\Release\SetupCreator.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\MyFunctions.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\SetupCreator\SetupCreator\bin\Release\Microsoft.Expression.Drawing.dll
